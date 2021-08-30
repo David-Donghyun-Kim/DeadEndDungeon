@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: c485cb405d3127840903d181205c52fe
+timeCreated: 1510496228
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: fat spot1
+    100002: fat spot2
+    100004: fat spot3
+    100006: fat1
+    100008: fat2
+    100010: fat3
+    100012: long eye1
+    100014: long eye2
+    100016: long eye3
+    100018: long hole1
+    100020: long hole2
+    100022: long hole3
+    100024: long1
+    100026: long2
+    100028: long3
+    100030: //RootNode
+    100032: tooth long1
+    100034: tooth long2
+    100036: tooth long3
+    400000: fat spot1
+    400002: fat spot2
+    400004: fat spot3
+    400006: fat1
+    400008: fat2
+    400010: fat3
+    400012: long eye1
+    400014: long eye2
+    400016: long eye3
+    400018: long hole1
+    400020: long hole2
+    400022: long hole3
+    400024: long1
+    400026: long2
+    400028: long3
+    400030: //RootNode
+    400032: tooth long1
+    400034: tooth long2
+    400036: tooth long3
+    2300000: fat spot1
+    2300002: fat spot2
+    2300004: fat spot3
+    2300006: fat1
+    2300008: fat2
+    2300010: fat3
+    2300012: long eye1
+    2300014: long eye2
+    2300016: long eye3
+    2300018: long hole1
+    2300020: long hole2
+    2300022: long hole3
+    2300024: long1
+    2300026: long2
+    2300028: long3
+    2300030: tooth long1
+    2300032: tooth long2
+    2300034: tooth long3
+    3300000: fat spot1
+    3300002: fat spot2
+    3300004: fat spot3
+    3300006: fat1
+    3300008: fat2
+    3300010: fat3
+    3300012: long eye1
+    3300014: long eye2
+    3300016: long eye3
+    3300018: long hole1
+    3300020: long hole2
+    3300022: long hole3
+    3300024: long1
+    3300026: long2
+    3300028: long3
+    3300030: tooth long1
+    3300032: tooth long2
+    3300034: tooth long3
+    4300000: fat spot3
+    4300002: fat spot2
+    4300004: fat spot1
+    4300006: fat3
+    4300008: fat2
+    4300010: fat1
+    4300012: long eye3
+    4300014: long eye2
+    4300016: long eye1
+    4300018: long hole3
+    4300020: long hole2
+    4300022: long hole1
+    4300024: long3
+    4300026: long1
+    4300028: long2
+    4300030: tooth long3
+    4300032: tooth long2
+    4300034: tooth long1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
